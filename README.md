@@ -7,4 +7,4 @@ The Encrypted Login System looks like this.
 ![Login System](/image.png)
 
 All user details are saved in this form:
-![Encrypted Username and Password](/capture.png)
+![Encrypted Username and Password](/Capture.png)
