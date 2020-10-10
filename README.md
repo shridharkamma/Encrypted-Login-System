@@ -4,4 +4,4 @@ Made an Encrypted Login System with tkinter and cryptography libraries which sav
 The system allows user to register their desired username and password and saves them in an encrypted form. These details are later decrypted and used while logging into the system.
 
 ![Login System](/image.png)
-Format: ![Alt Text](url)
+
